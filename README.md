@@ -11,6 +11,7 @@ import hello
 # Write your code here
 ```
 ---
-#### This warehouse does not use a license
-*Author:zhouxjpypl*
+#### This warehouse does not use a license,You can modify it freely. I don't mind copying the original, but please put my name in the most inconspicuous place
+*Author:zhouxjpypl(I don't think it's necessary)*
 ##### The warehouse contents are freely available and used only for entertainment
+###### This project does not require a license
